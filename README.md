@@ -3,7 +3,7 @@
 
 **Многооконная программа (TSN_DEMO_03_Questionnaire):**
 
-![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot.png)
 
 ![Screenshot](Screenshot2.png)
 
